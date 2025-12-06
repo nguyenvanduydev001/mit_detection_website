@@ -177,4 +177,8 @@ db = client["your_database_key_here"]
 
 ## 🧩 Giấy phép
 
-MIT License © 2025 — AgriVision Project Nam
+MIT License © 2025 — AgriVision 
+
+## Nhóm thực hiện
+- Nguyễn Văn Duy – 2151220251
+- Lê Nam – 215122014
