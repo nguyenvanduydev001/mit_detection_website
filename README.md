@@ -181,4 +181,4 @@ MIT License © 2025 — AgriVision
 
 ## Nhóm thực hiện
 - Nguyễn Văn Duy – 2151220251
-- Lê Nam – 215122014
+- Lê Nam – 2151220149
